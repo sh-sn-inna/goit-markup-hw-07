@@ -1,9 +1,5 @@
 @import "./utils/variables";
 @import "./utils/visually-hidden";
-@import "./utils/header";
-@import "./utils/footer";
-@import "./utils/portfolio";
-
 
 @import "./base/common";
 @import "./base/container";
@@ -15,3 +11,7 @@
 @import "./components/footer-form";
 @import "./components/portfolio-filter";
 @import "./components/portfolio-cards";
+
+@import "./layout//header";
+@import "./layout/footer";
+@import "./layout//portfolio";

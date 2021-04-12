@@ -1,7 +1,6 @@
 @import "./utils/variables";
 @import "./utils/visually-hidden";
-@import "./utils/header";
-@import "./utils/footer";
+
 
 @import "./base/common";
 @import "./base/container";
@@ -16,6 +15,8 @@
 @import "./components/modal-form";
 @import "./components/footer-form";
 
+@import "./layout/header";
+@import "./layout/footer";
 @import "./layout/hero";
 @import "./layout/features";
 @import "./layout/about";
